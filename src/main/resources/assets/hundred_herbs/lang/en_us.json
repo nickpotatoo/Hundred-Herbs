@@ -1,0 +1,13 @@
+{
+  "itemGroup.hundred_herbs": "Example Mod Tab",
+  "block.hundred_herbs.example_block": "Example Block",
+  "item.hundred_herbs.example_item": "Example Item",
+
+  "hundred_herbs.configuration.title": "Hundred Herbs Configs",
+  "hundred_herbs.configuration.section.hundred_herbs.common.toml": "Hundred Herbs Configs",
+  "hundred_herbs.configuration.section.hundred_herbs.common.toml.title": "Hundred Herbs Configs",
+  "hundred_herbs.configuration.items": "Item List",
+  "hundred_herbs.configuration.logDirtBlock": "Log Dirt Block",
+  "hundred_herbs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hundred_herbs.configuration.magicNumber": "Magic Number"
+}
